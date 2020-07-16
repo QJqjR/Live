@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a103d733-aeb4-4732-a559-d2e69f68c28f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="File" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Apache\maven-repository" />
+        <option name="mavenHome" value="D:/Apache/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Apache\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eiBJGicM0cIDQwv7tI9psDuMeu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="Application.ReadFile">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="File" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.ReadFile" />
+      <module name="File" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.ReadFile" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ReadFile" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a103d733-aeb4-4732-a559-d2e69f68c28f" name="Default Changelist" comment="" />
+      <created>1594794462154</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594794462154</updated>
+      <workItem from="1594794475441" duration="9059000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="274" y="37" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594804900437">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="274" y="37" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1594804900437" />
+    <state x="479" y="122" key="FileChooserDialogImpl" timestamp="1594804881100">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="479" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1594804881100" />
+    <state width="807" height="179" key="GridCell.Tab.0.bottom" timestamp="1594818952801">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="807" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1594818952801" />
+    <state width="807" height="179" key="GridCell.Tab.0.center" timestamp="1594818952801">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="807" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1594818952801" />
+    <state width="807" height="179" key="GridCell.Tab.0.left" timestamp="1594818952800">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="807" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1594818952800" />
+    <state width="807" height="179" key="GridCell.Tab.0.right" timestamp="1594818952801">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="807" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1594818952801" />
+    <state x="326" y="0" key="SettingsEditor" timestamp="1594804911552">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="326" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1594804911552" />
+    <state x="239" y="197" key="com.intellij.ide.util.TipDialog" timestamp="1594794478087">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="239" y="197" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1594794478087" />
+    <state x="363" y="221" width="672" height="286" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1594796033565">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="221" width="672" height="286" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1366.728@0.0.1366.728" timestamp="1594796033565" />
+  </component>
+</project>
